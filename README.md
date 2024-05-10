@@ -21,7 +21,7 @@ Para ejecutar esta aplicación en tu máquina local, sigue estos pasos:
 Clona este repositorio en tu máquina local:
 bash
 Copy code
-git clone https://github.com/tu_usuario/aprende-coreano.git
+git clone https://github.com/22michelle/Aprende-Coreano.git
 Accede al directorio del proyecto:
 bash
 Copy code
@@ -59,8 +59,7 @@ Realiza un fork del repositorio.
 Crea una nueva rama para tu contribución.
 Realiza tus cambios y confirma (commit) tus modificaciones.
 Envía tus cambios al repositorio remoto (push) y crea una solicitud de extracción (pull request).
-Licencia
-Este proyecto está licenciado bajo la Licencia MIT.
 
 Contacto
-Si tienes alguna pregunta o sugerencia sobre este proyecto, no dudes en ponerte en contacto con el equipo de desarrollo a través de correo electrónico.
+Si tienes alguna pregunta o sugerencia sobre este proyecto, no dudes en ponerte en contacto con el equipo de desarrollo a través del correo electrónico.
+michellemejiaparra4@gmail.com
