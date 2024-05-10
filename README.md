@@ -36,7 +36,7 @@ Antes de ejecutar la aplicación, asegúrate de configurar las variables de ento
 plaintext
 Copy code
 PORT=4000
-MONGOURI=mongodb+srv://tu_usuario:tu_contraseña@cluster0.noyz2br.mongodb.net/aprende-coreano
+MONGOURI= mongodb+srv://tu_usuario:tu_contraseña@cluster0.noyz2br.mongodb.net/aprende-coreano
 CLOUD_NAME=tu_cloud_name
 API_KEY=tu_api_key
 API_SECRET=tu_api_secret
